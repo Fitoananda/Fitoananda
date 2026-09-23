@@ -12,17 +12,9 @@ Now, I'm transitioning into software development and focusing on building web-ba
 
 - **Backend:** PHP, Laravel
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Database:** MySQL
-- **UI:** Tailwind CSS
+- **Database:** MySQL, Supabase, 
+- **UI:** Tailwind CSS, Aceternity UI, Lucide Icons, Material Icon Theme
 - **Tools:** Git, GitHub, VS Code, Laragon
-
-### 🚀 Featured Project
-
-**Web-Based Technical Support System**
-
-A complaint management system designed to help manage product complaints, track solutions, and provide complaint statistics for quality evaluation in a manufacturing environment.
-
-**Built with:** Laravel • MySQL • Tailwind CSS
 
 ### 📫 Connect With Me
 
